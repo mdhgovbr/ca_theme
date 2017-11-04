@@ -176,24 +176,25 @@
                     ?>
 
                         <div class="featured-content">
-                            <div class="carousel slide" data-ride="carousel" id="quote-carousel">
-                                <!-- Bottom Carousel Indicators -->
+
+<!--                            <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+
                                 <ol class="carousel-indicators">
                                     <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
-                                    <!--
+
                                     <li data-target="#quote-carousel" data-slide-to="1"></li>
                                     <li data-target="#quote-carousel" data-slide-to="2"></li>
                                     <li data-target="#quote-carousel" data-slide-to="3"></li>
                                     <li data-target="#quote-carousel" data-slide-to="4"></li>
                                     <li data-target="#quote-carousel" data-slide-to="5"></li>
                                     <li data-target="#quote-carousel" data-slide-to="6"></li>
-                                    -->
+
                                 </ol>
 
-                                <!-- Carousel Slides / Quotes -->
+
                                 <div class="carousel-inner">
 
-                                    <!-- Quote 1 -->
+
                                     <div class="item active">
                                         <blockquote>
                                             <div class="row">
@@ -213,8 +214,7 @@
                                         </blockquote>
                                     </div>
 
-                                    <!-- Quote 2 -->
-                                    <!--
+
                                     <div class="item">
                                         <blockquote>
                                             <div class="row">
@@ -234,10 +234,7 @@
                                             </div>
                                         </blockquote>
                                     </div>
-                                    -->
 
-                                    <!-- Quote 3 -->
-                                    <!--
                                     <div class="item">
                                         <blockquote>
                                             <div class="row">
@@ -257,10 +254,7 @@
                                             </div>
                                         </blockquote>
                                     </div>
-                                    -->
 
-                                    <!-- Quote 4 -->
-                                    <!--
                                     <div class="item">
                                         <blockquote>
                                             <div class="row">
@@ -280,10 +274,7 @@
                                             </div>
                                         </blockquote>
                                     </div>
-                                    -->
 
-                                    <!-- Quote 5 -->
-                                    <!--
                                     <div class="item">
                                         <blockquote>
                                             <div class="row">
@@ -303,10 +294,7 @@
                                             </div>
                                         </blockquote>
                                     </div>
-                                    -->
 
-                                     <!-- Quote 6 -->
-                                     <!--
                                     <div class="item">
                                         <blockquote>
                                             <div class="row">
@@ -325,10 +313,7 @@
                                             </div>
                                         </blockquote>
                                     </div>
-                                    -->
 
-                                    <!-- Quote 7 -->
-                                    <!--
                                     <div class="item">
                                         <blockquote>
                                             <div class="row">
@@ -348,14 +333,10 @@
                                             </div>
                                         </blockquote>
                                     </div>
-                                    -->
 
                                 </div>
 
-                                <!-- Carousel Buttons Next/Prev -->
-                                <!--<a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
-                                <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>-->
-                            </div>
+                            </div>  -->
 
                             <!-- Conversa section -->
                             <section class="section conversa" id="conversa">
