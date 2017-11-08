@@ -31,7 +31,7 @@
     <link href="<?php bloginfo('template_directory'); ?>/style.css" rel="stylesheet">
     <link href="<?php bloginfo('template_directory'); ?>/css/font-awesome.min.css" rel="stylesheet">
     <!-- Font family -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
     <!--<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500" rel="stylesheet">-->
 
