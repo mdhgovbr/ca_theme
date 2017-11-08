@@ -116,7 +116,7 @@
                                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                     <ul class="nav navbar-nav navbar-right">
                                         <li><a href="<?php echo get_site_url(); ?>/sobre-nos" role="presentation">Sobre nós</a></li>
-                                        <li><a href="<?php echo get_site_url(); ?>/category/conversas/" role="presentation">Conversas</a></li>
+                                <!--        <li><a href="<?php echo get_site_url(); ?>/category/conversas/" role="presentation">Conversas</a></li>  -->
                                         <li><a href="<?php echo get_site_url(); ?>/perguntas-frequentes" role="presentation">Perguntas frequentes</a></li>
                                     </ul>
                                 </div>

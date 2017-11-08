@@ -21,7 +21,7 @@
                 <span>
                     <ul class="bottom_ul text-center">
                         <li><a href="<?php echo get_site_url(); ?>/sobre-nos" role="presentation">Sobre nós</a></li>
-                        <li><a href="<?php echo get_site_url(); ?>/category/conversas/" role="presentation">Conversas</a></li>
+                        <!-- <li><a href="<?php echo get_site_url(); ?>/category/conversas/" role="presentation">Conversas</a></li> -->
                         <li><a href="<?php echo get_site_url(); ?>/perguntas-frequentes" role="presentation">Perguntas frequentes</a></li>
                         <li><a href="<?php echo get_site_url(); ?>/termos-de-uso" role="presentation">Termos de uso</a></li>
                     </ul>
