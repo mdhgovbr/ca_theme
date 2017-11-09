@@ -28,7 +28,7 @@
                 </span>
                 </div>
                 <div class="col-md-12">
-                    <p>Desenhado pelo Instituto Cidade Democrática e movido pelo software livre Pol.is</p>
+                    <p>Este ambiente é movido pelos softwares livres Empurrando Juntos e Pol.is</p>
                 </div>
             </div>
         </div>
